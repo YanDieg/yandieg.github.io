@@ -38,6 +38,16 @@
     line-height: 1;
     margin: 1rem 0 0;
   }
+  
+    .header-firstname {
+    @include sans;
+    font-size: 3rem;
+    font-weight: lighter;
+    text-align: center;
+    letter-spacing: -.15rem;
+    line-height: 1;
+    margin: 1rem 0 0;
+  }
 
   .header-contact-info {
     @include sans;
