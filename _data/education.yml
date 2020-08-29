@@ -2,12 +2,8 @@
 - degree: Master of Engineering, Computer Science and Engineering
   uni: University of Brescia
   year: 2019 &mdash; Present
-  #awards:
-  summary: The "Computer Science and Engineering"'s field is very wide, it combines Computer Science, Computer Engineering and Electronics Engineering areas.
-
-- degree: Bachelor of Engineering, Computer Science and Engineering
-  uni: University of Brescia
-  year: 2016 &mdash; 2019
-  awards:
-    - award: 107/110
+  degree2: Bachelor of Engineering, Computer Science and Engineering
+  year2: 2016 &mdash; 2019
+  awards2:
+    - award2: 107/110
   summary: The "Computer Science and Engineering"'s field is very wide, it combines Computer Science, Computer Engineering and Electronics Engineering areas.
