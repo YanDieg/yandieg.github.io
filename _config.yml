@@ -1,6 +1,6 @@
 # Site settings
-title: "Yanez Diego Parolin"
-description: "My Personal Resume Website"
+title: ""
+description: ""
 
 # Build settings
 markdown: kramdown
